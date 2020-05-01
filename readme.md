@@ -1,5 +1,5 @@
 # GIF-3004 H2020
-Laboratoire 5 - Systèmes embarqués temps réel
+Laboratoire 5 - Systèmes embarqués temps réel.
 Ce projet prend on considération que vous utilisez la machine virtuelle du cours avec la chaine de cross-compilation et que vous avez réussi le laboratoire 4 (bien que le fichier .ko soit fourni).
 
 
