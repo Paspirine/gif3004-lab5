@@ -6,8 +6,9 @@ Ce projet prend on considération que vous utilisez la machine virtuelle du cour
 ## Démonstration Vidéo
 Le lien youtube ci-dessous contient une courte présentation du projet.
 ```
-https://youtu.be/7AF9ct4qcYU
+[Youtube](https://youtu.be/7AF9ct4qcYU)
 ```
+
 
 ## Compilation
 Le projet est constitué de deux parties, une pour le PC et une autre pour le Raspberry Pi Zero. Afin de compiler les binaires, il suffit de naviguer dans le dossier en question et d'executer CMake. Les binaires se trouverons alors dans ./pi/build/ et ./pc/build/
