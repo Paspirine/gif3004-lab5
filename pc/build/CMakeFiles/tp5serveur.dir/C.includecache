@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paspirine/projet/laboratoire5/pc/tp5serveur.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+netdb.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+fcntl.h
+-
+

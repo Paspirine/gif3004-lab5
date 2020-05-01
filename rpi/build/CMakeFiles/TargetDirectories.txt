@@ -1,0 +1,3 @@
+/home/paspirine/projet/laboratoire5/rpi/build/CMakeFiles/rebuild_cache.dir
+/home/paspirine/projet/laboratoire5/rpi/build/CMakeFiles/tp5client.dir
+/home/paspirine/projet/laboratoire5/rpi/build/CMakeFiles/edit_cache.dir

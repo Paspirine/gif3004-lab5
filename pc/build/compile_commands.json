@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/paspirine/projet/laboratoire5/pc/build",
+  "command": "/usr/bin/x86_64-redhat-linux-gcc-9   -g   -o CMakeFiles/tp5serveur.dir/tp5serveur.c.o   -c /home/paspirine/projet/laboratoire5/pc/tp5serveur.c",
+  "file": "/home/paspirine/projet/laboratoire5/pc/tp5serveur.c"
+}
+]

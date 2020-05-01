@@ -1,0 +1,7 @@
+#!/bin/bash
+nc -l 3004 > /dev/claviersetr
+#Svp je suis tanné sois ca marche d'un côté ou de l'autre avec netcat, mais jamais completement sans. Faites le test! 
+#sur le pc: nc -l 3004 > /dev/claviersetr et sur le pi: sudo ./tp5client "adresse ip serveur" ca fonctionne.
+#sur pc: ./tp5serveur (pas tp5serveurPc haha) et sur le pi: nc "adresse ip du serveur" 3004 (et ensuite vous tappez) ca fonctionne aussi.
+#Ca fait 3 jours que j'essaie de débugger ça svp j'vous paie une bière à la prochaine dérive hahaha
+#Bonne été! -PA

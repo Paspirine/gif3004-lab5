@@ -1,0 +1,5 @@
+/home/paspirine/projet/laboratoire5/pc/build/CMakeFiles/edit_cache.dir
+/home/paspirine/projet/laboratoire5/pc/build/CMakeFiles/package_source.dir
+/home/paspirine/projet/laboratoire5/pc/build/CMakeFiles/tp5serveur.dir
+/home/paspirine/projet/laboratoire5/pc/build/CMakeFiles/rebuild_cache.dir
+/home/paspirine/projet/laboratoire5/pc/build/CMakeFiles/package.dir
