@@ -23,11 +23,11 @@ sudo ./pc/build/tp5serveur
 ### Raspberry Pi
 Ensuite, il faut chargé dans le kernel le module du laboratoire 4 avec la commande suivante:
 ```
-sudo insmod ./pi/setr_driver_irq.ko
+sudo insmod ./rpi/setr_driver_irq.ko
 ```
 Finalement, on démarre le client avec:
 ```
-sudo ./pi/build/tp5client $"adresse du serveur"
+sudo ./rpi/build/tp5client $"adresse du serveur"
 ```
 
 ### Test
@@ -47,13 +47,13 @@ nc -l 3004 > ./fichierquelconque
 
 Pi:
 ```
-./tp5client $"adresse du PC"
+sudo ./rpi/build/tp5client $"adresse du PC"
 ```
 
 ### Pour tester le serveur
 PC:
 ```
-./pc/build/tp5serveurPC
+sudo ./pc/build/tp5serveurPC
 
 ```
 
