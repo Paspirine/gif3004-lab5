@@ -36,7 +36,7 @@ Il sera ensuite possible d'entrer des touches dans le clavier connecté au Raspb
 sudo tail -f /dev/claviersetr
 ```
 
-## Test des modules indépendamment
+## Test des modules de façon indépendante
 Il est possible d'utiliser netcat afin de tester individuellement le serveur et le client de ce projet.
 
 ### Pour tester le client
